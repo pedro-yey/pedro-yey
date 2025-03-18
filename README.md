@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro Teles!
 - 👀 I’m interested in study JavaScript,PHP and more!
-- 🌱 I’m currently learning Front-end
+- 🌱 I’m currently learning Python.
 - ⚡ Fun fact: I am a chess player, but, i want to do chess engines!
 
 <!---
