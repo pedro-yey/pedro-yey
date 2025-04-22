@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Pedro Teles!
-- 👀 I’m interested in study JavaScript,PHP and more!
-- 🌱 I’m currently learning Python.
-- ⚡ Fun fact: I am a chess player, but, i want to do chess engines!
+Olá, sou Pedro Teles.
+Tenho 14 anos e sou interessado em desenvolvimento Web.
+Sei Python, e agora estou aprendendo PHP.
+
 
 <!---
 pedro-yey/pedro-yey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
